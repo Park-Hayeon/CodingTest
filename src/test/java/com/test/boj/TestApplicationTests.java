@@ -1,10 +1,10 @@
-package com.zerobase.math;
+package com.test.boj;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MathApplicationTests {
+class TestApplicationTests {
 
 	@Test
 	void contextLoads() {

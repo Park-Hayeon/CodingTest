@@ -1,13 +1,13 @@
-package com.zerobase.math;
+package com.test.boj;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MathApplication {
+public class TestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MathApplication.class, args);
+		SpringApplication.run(TestApplication.class, args);
         System.out.println("dd");
 	}
 
